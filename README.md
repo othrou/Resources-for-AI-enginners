@@ -12,6 +12,7 @@
 
 ### YouTube Channels:
 - [Sentdex](https://www.youtube.com/user/sentdex)
+- [Krish Naik] (https://www.youtube.com/@krishnaik06/playlists) --> 🥇
 - [TechWithTim](https://www.youtube.com/c/techwithtim)
 - [FreeCodeCamp](https://www.youtube.com/c/Freecodecamp)
 - [Programming with Mosh](https://www.youtube.com/@programmingwithmosh)
