@@ -17,6 +17,7 @@
 - [FreeCodeCamp](https://www.youtube.com/c/Freecodecamp)
 - [Programming with Mosh](https://www.youtube.com/@programmingwithmosh)
 - [Krish Naik](https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig)
+- [Code basis][https://www.youtube.com/@codebasics/videos]
 
 ### YouTube Tutorials:
 - [Harvard CS50 Introduction to Programming with Python](https://youtu.be/nLRL_NcnK-4?si=nJbT7vUtxhqeWWWG) - A massive, 16-hour long course directly from Harvard University
