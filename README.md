@@ -1,5 +1,8 @@
 # Resources for AI Engineers
 
+### ML Theory
+- [machinelearningmastery](https://machinelearningmastery.com/no-free-lunch-theorem-for-machine-learning/) --> example of no-free-lunch-theorem explanation
+
 ## Python
 
 ### Websites
